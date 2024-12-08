@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![likitha (example 1 2)](https://github.com/user-attachments/assets/ac20f0f5-572d-4e9c-8083-fd66aebe5a6d)
+![Screenshot 2024-12-07 230737](https://github.com/user-attachments/assets/45e05785-bd6c-452f-b068-63f21a45dc07)
 
 
  ## RESULT
